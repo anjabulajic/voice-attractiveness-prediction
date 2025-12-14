@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data (DO NOT UPLOAD)
+data/
+*.wav
+
+# Results / models
+results/
+*.npy
+*.npz
+*.keras
+*.h5
+
+# Logs & temp
+*.log
+temp_input.wav
